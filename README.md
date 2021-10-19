@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Whitevalley!
 
 Hey, my name is **Elena**, this is my first website with _Github_ and Jekyll :-)
 
